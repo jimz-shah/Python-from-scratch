@@ -1,0 +1,23 @@
+What all required to build software?
+- How to write a code?
+- How to run a code?
+- How to test & debug code
+- How to deploy code
+
+All the above things available in IDE (Integrated Development Environment)
+Pycharm is IDE. Why Pycharm?
+- Beginner friendly
+- Free
+- Applicable in professional settings
+
+Download Python - python.org > Downloads > latest version (3.12.4)
+Download Pycharm - jetbrains.com/pycharm > download community version
+ctrl+shift+n - search project
+ctrl+g - search line of code in particular project
+ctrl+/ - comment out the whole line of code
+
+Git & Github are version control system (VCS)
+- it keeps a record
+- backups
+- make easy collaboration
+git-scm.com - website of git
